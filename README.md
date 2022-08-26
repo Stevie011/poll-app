@@ -1,2 +1,2 @@
-# simple-django-app
-A simple Django app (learning the framework)
+# poll-app
+A simple poll app made using Django
